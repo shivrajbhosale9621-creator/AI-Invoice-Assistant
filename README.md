@@ -4,12 +4,6 @@
 
 This application provides a user-friendly interface built with Streamlit to manage and query invoice data. It moves beyond simple keyword searching by leveraging an LLM to understand context and provide conversational, human-like answers.
 
-<br>
-
-![Screenshot of the Invoice Assistant App](https://i.imgur.com/your-screenshot-url.png)
-*(**Action:** Replace the link above with a real screenshot or GIF of your running application!)*
-
-<br>
 
 ## ✨ Key Features
 
