@@ -1,0 +1,16 @@
+streamlit
+pandas
+openpyxl
+python-dotenv
+pydantic
+langchain
+langchain-groq
+llama-index>
+llama-index-llms-groq
+PyMuPDF>
+pytesseract
+opencv-python-headless
+filetype
+requests
+dateparser
+
